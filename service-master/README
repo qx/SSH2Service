@@ -1,0 +1,11 @@
+添加 javaEE 6.jar
+添加javaEE 支持
+添加strus和spring
+安装tomcat
+安装mysql， 创建database，user/pwd:root,root，具体查看 beans.xml
+数据库名 fullwish  (CREATE DATABASE `fullwish` CHARACTER SET 'utf8' COLLATE 'utf8_general_ci';)
+
+访问地址
+手机端： 外网地址：192.168.1.104:8081/json2
+本地：  localhost:8081/json2
+
