@@ -50,7 +50,7 @@ public class TestJson2 extends ActionSupport {
 //        setMap(map);
         ArrayList<ProductServer> ap = new ArrayList<ProductServer>();
         ap.add(new ProductServer());
-        setStatus("success");
+        setStatus("false");
         setResult(ap);
 
 

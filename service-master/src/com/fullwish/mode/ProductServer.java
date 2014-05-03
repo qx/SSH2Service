@@ -12,8 +12,10 @@ public class ProductServer {
         setCurrentCnt(1000);
         setDetail("this is detail");
         setPrice(5555.0f);
-        setTotalCnt(3000);
-        setMyObject(new MyObject("myfirst ob"));
+        setTotalCnt(30066);
+        MyObject myObject1 = new MyObject("asdf","sdfwer");
+        setMyObject(myObject1);
+
     }
 
     public ProductServer(String productId, String productImg, String productName, Integer totalCnt, String detail, Integer currentCnt, Float price, MyObject myObject) {
